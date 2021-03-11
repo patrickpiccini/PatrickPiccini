@@ -21,6 +21,6 @@ This is the place where I opensource stuff and break things 🤣
 <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Windows.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Linux.png' width='30'/>
 
 <h3>Where to find me:</h3>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-berlatto-piccini-8414a91a7/)](https://www.linkedin.com/in/patrick-berlatto-piccini-8414a91a7/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/patrickpiccini/)](https://www.instagram.com/patrickpiccini/)
-[![Outlook Badge](https://img.shields.io/badge/-patrickbpiccini%40icloud.com-lightgrey?style=flat-square&logo=Windows&logoColor=white&link=mailto:p)](mailto:jpatrickbpiccini@icloud.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-berlatto-piccini-8414a91a7/)](https://www.linkedin.com/in/patrick-berlatto-piccini-8414a91a7/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/patrickpiccini)](https://www.instagram.com/patrickpiccini)
+[![Hotmail Badge](https://img.shields.io/badge/-patrickbpiccini%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:patrickbpiccini@hotmail.com)](mailto:patrickbpiccini@hotmail.com)
