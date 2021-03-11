@@ -26,5 +26,3 @@ This is the place where I opensource stuff and break things 🤣
 <a href="https://www.instagram.com/patrickpiccini/?hl=pt-br"><img src="https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Redes/instagram.png" alt="instagram" width='110'></a>
 <a href="patrickbpiccini@hotmail.com"><img src="https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Redes/Hotmail.png" alt="Hotmail" width='110'></a>
 
-
-
