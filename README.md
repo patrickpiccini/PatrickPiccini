@@ -5,7 +5,6 @@ This is the place where I opensource stuff and break things 🤣
 ### Programming Languages
 
 <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Python.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Java.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/JavaScript.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Html5.png' width='45'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Css3.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Git.png' width='40'/> 
-//<img width="350" align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickPiccini&langs_count=20'/>
 <img width="350" align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickPiccini&'/>
 
 ### Libraries
