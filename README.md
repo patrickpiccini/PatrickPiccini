@@ -22,9 +22,9 @@ This is the place where I opensource stuff and break things 🤣
 
 <h3>Where to find me:</h3>
 
-<a href="https://www.linkedin.com/in/patrick-berlatto-piccini-8414a91a7/"><img src="https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Redes/linkedin.png" alt="linkedin" width='10'></a>
-<a href="https://www.instagram.com/patrickpiccini/?hl=pt-br"><img src="https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Redes/instagram.png" alt="instagram" width='10'></a>
-<a href="patrickbpiccini@hotmail.com"><img src="https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Redes/Hotmail.png" alt="Hotmail" width='10'></a>
+<a href="https://www.linkedin.com/in/patrick-berlatto-piccini-8414a91a7/"><img src="https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Redes/linkedin.png" alt="linkedin" width='30'></a>
+<a href="https://www.instagram.com/patrickpiccini/?hl=pt-br"><img src="https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Redes/instagram.png" alt="instagram" width='30'></a>
+<a href="patrickbpiccini@hotmail.com"><img src="https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Redes/Hotmail.png" alt="Hotmail" width='30'></a>
 
 
 
