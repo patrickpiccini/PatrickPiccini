@@ -1,4 +1,4 @@
-### Hi there, I'm [Patrick Berlatto PIccini!] 👋
+### Hi there, I'm [Patrick Berlatto Piccini!] 👋
 
 This is the place where I opensource stuff and break things 🤣
 
@@ -15,7 +15,7 @@ This is the place where I opensource stuff and break things 🤣
 
 <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Arduino.png' width='30'/>
 
-### Operal Systems
+### Operational System
 
 <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Windows.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Linux.png' width='30'/>
 
