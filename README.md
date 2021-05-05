@@ -11,6 +11,10 @@ Obscure place with obscure codes 🤣
 
 <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Selenium.png' width='30'/>
 
+### DataBases
+
+<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/MySQL.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/MariaBD.png' width='30'/> 
+
 ### Robotic
 
 <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Arduino.png' width='30'/>
