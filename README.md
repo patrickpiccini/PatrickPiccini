@@ -13,7 +13,7 @@ Obscure place with obscure codes 🤣
 
 ### DataBases
 
-<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/MySQL.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/MariaBD.png' width='30'/> 
+<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/MySQL.png' width='32'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/MariaBD.png' width='33'/> 
 
 ### Robotic
 
