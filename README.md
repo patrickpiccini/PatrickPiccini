@@ -2,6 +2,10 @@
 
 Obscure place with obscure codes 🤣
 
+### Certificates
+
+<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/GitLab%20Certified%20Associate.png?raw=true' width='40'/> 
+
 ### Programming Languages
 
 <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Python.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Java.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/JavaScript.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Html%205.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Css3.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Git.png' width='35'/> 
