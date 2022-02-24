@@ -1,36 +1,24 @@
 ### Hi there, I'm Patrick Berlatto Piccini! 👋
-
-Obscure place with obscure codes 🤣
+#
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/patrickpiccini/?hl=pt-br) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-berlatto-piccini-8414a91a7/) 
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-373737?style=flat&logo=microsoft-outlook&logoColor=white)](patrickbpiccini@hotmail.com) 
 <img width="350" align="right" src='https://github-readme-stats.vercel.app/api?username=PatrickPiccini&show_icons=true&theme=react'/>
+
+**Obscure place with obscure codes** 🤣
 
 ### Certificates
 
-<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/GitLab%20Certified%20Associate.png?raw=true' width='40'/> 
+<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Oracle_Cloud_Infrastructure_Foundations_Associate.png' width='110'/><img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/GitLab%20Certified%20Associate.png?raw=true' width='50'/>
 
-### Programming Languages
+<img width="350" align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickPiccini&langs_count=6&theme=react'/>
 
-<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Python.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Java.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/JavaScript.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Html%205.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Css3.png' width='30'/><img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Flutter.png' width='50'/>  <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Git.png' width='35'/>
-<img width="350" align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickPiccini&langs_count=6&theme=react'/>
+### Skills
 
-### Libraries
+<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Python.png' width='32'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Django.png' width='40'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Flask.png' width='40'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Selenium.png' width='38'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Java.png' width='32' /><img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Flutter.png' width='50'/><img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Oracle.png' width='55'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/JavaScript.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Html%205.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Css3.png' width='30'/>
 
-<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Selenium.png' width='30'/>
+<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/PostgresDB.png' width='50'/><img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/MariaBD.png' width='45'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/MySQL.png' width='32'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/MongoDB.png' width='33'/> 
 
-### DataBases
+<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Docker.png' width='40'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Git.png' width='35'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/BitBucket.png' width='40'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Jira.png' width='40'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Linux.png' width='30'/>
 
-<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/MySQL.png' width='32'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/MariaBD.png' width='33'/> 
-
-### Robotic
-
-<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Arduino.png' width='30'/>
-
-### Operational System
-
-<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Windows.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Linux.png' width='30'/>
-
-<h3>Where to find me:</h3>
-
-<a href="https://www.linkedin.com/in/patrick-berlatto-piccini-8414a91a7/"><img src="https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Redes/linkedin.png" alt="linkedin" width='110'></a>
-<a href="https://www.instagram.com/patrickpiccini/?hl=pt-br"><img src="https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Redes/instagram.png" alt="instagram" width='110'></a>
-<a href="patrickbpiccini@hotmail.com"><img src="https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Redes/Hotmail.png" alt="Hotmail" width='110'></a>
 
