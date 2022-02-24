@@ -1,12 +1,7 @@
 ### Hi there, I'm Patrick Berlatto Piccini! 👋
 
 Obscure place with obscure codes 🤣
-
-#
-
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=PatrickPiccini&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/PatrickPiccini)
-
-#
+<img width="350" align="right" src='https://github-readme-stats.vercel.app/api?username=PatrickPiccini&show_icons=true&theme=react'/>
 
 ### Certificates
 
@@ -15,7 +10,7 @@ Obscure place with obscure codes 🤣
 ### Programming Languages
 
 <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Python.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Java.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/JavaScript.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Html%205.png' width='30'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Css3.png' width='30'/><img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Flutter.png' width='50'/>  <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Git.png' width='35'/>
-<img width="350" align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickPiccini&langs_count=20'/>
+<img width="350" align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickPiccini&langs_count=6&theme=react'/>
 
 ### Libraries
 
