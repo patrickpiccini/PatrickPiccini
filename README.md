@@ -11,7 +11,7 @@
 
 <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Oracle_Cloud_Infrastructure_Foundations_Associate.png' width='110'/><img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/GitLab%20Certified%20Associate.png?raw=true' width='50'/>
 
-<img width="350" align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickPiccini&langs_count=6&theme=react'/>
+<!-- <img width="350" align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickPiccini&langs_count=6&theme=react'/> -->
 
 ### Skills
 
