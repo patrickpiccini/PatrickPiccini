@@ -9,7 +9,7 @@
 
 ### Certificates
 
-<img src = 'https://github.com/patrickpiccini/PatrickPiccini/blob/main/CludQuest-CloudPratictioner.png' width='60'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Oracle_Cloud_Infrastructure_Foundations_Associate.png' width='60'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/GitLab%20Certified%20Associate.png?raw=true' width='60'/>
+<img src = 'https://github.com/patrickpiccini/PatrickPiccini/blob/main/AWSCCP.png' width='60'/> <img src = 'https://github.com/patrickpiccini/PatrickPiccini/blob/main/CludQuest-CloudPratictioner.png' width='60'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Oracle_Cloud_Infrastructure_Foundations_Associate.png' width='60'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/GitLab%20Certified%20Associate.png?raw=true' width='60'/>
 
 <!-- <img width="350" align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickPiccini&langs_count=6&theme=react'/> -->
 
