@@ -15,12 +15,11 @@
 
 ### Skills
 
-![lenaguages](https://devicons.dev.br/icons?icon=Python,Django,Flask,Java,NodeJS,CSS,HTML,JavaScript,React,Flutter&theme=dark)
+[![Linguagens](https://devicons.dev.br/icons?icon=Python,Django,Flask,Java,NodeJS,CSS,HTML,JavaScript,React,Flutter&theme=dark)](https://devicons.dev.br/) 
 
-![lenaguages](https://devicons.dev.br/icons?icon=PostgreSQL,MySQL,SQLite,MongoDB&theme=dark)
+[![Linguagens](https://devicons.dev.br/icons?icon=PostgreSQL,MySQL,SQLite,MongoDB&theme=dark)](https://devicons.dev.br/) 
 
-![lenaguages](https://devicons.dev.br/icons?icon=AWS,Docker,Git,GithubActions,Linux,RabbitMQ,Redis&theme=dark)
-
+[![Linguagens](https://devicons.dev.br/icons?icon=AWS,Docker,Git,GithubActions,Linux,RabbitMQ,Redis&theme=dark)](https://devicons.dev.br/) 
 
 ## Projects
 - [**Complete project of Microservices:**](https://github.com/patrickpiccini/MS-Application)
