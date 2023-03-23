@@ -15,11 +15,12 @@
 
 ### Skills
 
-<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Python.png' width='40'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Pandas.png' width='40'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/NumPy.png' width='40'/>  <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Django.png' width='40'/>  <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Flask.png' width='40'/>  <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Selenium.png' width='40'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Java.png' width='40' /> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Flutter.png' width='40'/><img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/ReactNative.png' width='40'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/JavaScript.png' width='44'/><img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Html%205.png' width='44'/><img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Css3.png' width='44'/>
+![lenaguages](https://devicons.dev.br/icons?icon=Python,Django,Flask,Java,NodeJS,CSS,HTML,JavaScript,React,Flutter&theme=dark)
 
-<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/PostgresDB.png' width='40'/><img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/MariaBD.png' width='45'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/MySQL.png' width='40'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/MongoDB.png' width='40'/> 
+![lenaguages](https://devicons.dev.br/icons?icon=PostgreSQL,MySQL,SQLite,MongoDB&theme=dark)
 
-<img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Oracle.png' width='47'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Docker.png' width='40'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Git.png' width='40'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/BitBucket.png' width='40'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Jira.png' width='40'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Linux.png' width='40'/>
+![lenaguages](https://devicons.dev.br/icons?icon=AWS,Docker,Git,GithubActions,Linux,RabbitMQ,Redis&theme=dark)
+
 
 ## Projects
 - [**Complete project of Microservices:**](https://github.com/patrickpiccini/MS-Application)
