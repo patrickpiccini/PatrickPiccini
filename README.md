@@ -22,6 +22,12 @@
 [![Linguagens](https://devicons.dev.br/icons?icon=AWS,Docker,Git,GithubActions,Linux,RabbitMQ,Redis&theme=dark)](https://devicons.dev.br/) 
 
 ## Projects
+
+- [**Dev Icons 🚀**](https://devicons.dev.br/)
+
+  Dev Icons is a platform created especially for people who want to standardize their GitHub profile using the icons provided by the Dev Icons API.
+Following all market standards, Dev Icons uses the highest technologies such as: AWS, IaaC with Terraform, Pipelines with GitActions for automatic deployment, Python, Flask, JavaScript, Html and CSS
+
 - [**Complete project of Microservices:**](https://github.com/patrickpiccini/MS-Application)
 
   A project that goes through different stages of architecture and software development with the main focus on the creation of microservices, where several services communicate through a message broker, thus making the application not have any dependencies, which can cause the unavailability of the entire application.
