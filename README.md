@@ -9,21 +9,21 @@
 
 ### Certificates
 
-<img src = 'https://github.com/patrickpiccini/PatrickPiccini/blob/main/AWSCCP.png' width='60'/> <img src = 'https://github.com/patrickpiccini/PatrickPiccini/blob/main/CludQuest-CloudPratictioner.png' width='60'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Oracle_Cloud_Infrastructure_Foundations_Associate.png' width='60'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/GitLab%20Certified%20Associate.png?raw=true' width='60'/>
+<img src = 'https://github.com/patrickpiccini/PatrickPiccini/blob/main/AWSCCP.png' width='60'/> <img src = 'https://github.com/patrickpiccini/PatrickPiccini/blob/main/CludQuest-CloudPratictioner.png' width='60'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Oracle_Cloud_Infrastructure_Foundations_Associate.png' width='60'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/GitLab%20Certified%20Associate.png?raw=true' width='60'/> <img src = 'https://github.com/patrickpiccini/PatrickPiccini/blob/main/PCEP.png' width='60'/>
 
 <!-- <img width="350" align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickPiccini&langs_count=6&theme=react'/> -->
 
 ### Skills
 
-[![Linguagens](https://devicons.dev.br/icons?icon=Python,Django,Flask,Java,NodeJS,CSS,HTML,JavaScript,React,Flutter&theme=dark)](https://devicons.dev.br/) 
+[![Linguagens](https://api.devicons.dev.br/icon?icons=Python%2CDjango%2CFlask%2CFastAPI%2CSelenium%2CJava%2CNodeJS%2CHTML%2CCSS%2CJavaScript&size=48&theme=dark&perline=30)](http://devicons.dev.br/) 
 
-[![Linguagens](https://devicons.dev.br/icons?icon=PostgreSQL,MySQL,SQLite,MongoDB&theme=dark)](https://devicons.dev.br/) 
+[![Linguagens](https://api.devicons.dev.br/icon?icons=PostgreSQL%2CMySQL%2CSQLite%2CMongoDB&size=48&theme=dark&perline=30)](http://devicons.dev.br/) 
 
-[![Linguagens](https://devicons.dev.br/icons?icon=AWS,Docker,Git,GithubActions,Linux,RabbitMQ,Redis&theme=dark)](https://devicons.dev.br/) 
+[![Linguagens](https://api.devicons.dev.br/icon?icons=AWS%2CDocker%2CKubernetes%2CGit%2CGithubActions%2CLinux%2CRabbitMQ%2CRedis%2CGrafana%2CZabbix&size=48&theme=dark&perline=30)](http://devicons.dev.br/) 
 
 ## Projects
 
-- [**Dev Icons 🚀**](https://devicons.dev.br/)
+- [**Dev Icons 🚀**](http://devicons.dev.br/)
 
   Dev Icons is a platform created especially for people who want to standardize their GitHub profile using the icons provided by the Dev Icons API.
 Following all market standards, Dev Icons uses the highest technologies such as: AWS, IaaC with Terraform, Pipelines with GitActions for automatic deployment, Python, Flask, JavaScript, Html and CSS
