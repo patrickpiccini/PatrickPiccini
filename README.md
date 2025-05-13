@@ -15,15 +15,15 @@
 
 ### Skills
 
-[![Linguagens](https://api.devicons.dev.br/icon?icons=Python%2CDjango%2CFlask%2CFastAPI%2CSelenium%2CJava%2CNodeJS%2CHTML%2CCSS%2CJavaScript&size=48&theme=dark&perline=30)](http://devicons.dev.br/) 
+[![Linguagens](https://api.devicons.dev.br/icon?icons=Python%2CDjango%2CFlask%2CFastAPI%2CSelenium%2CJava%2CNodeJS%2CHTML%2CCSS%2CJavaScript&size=48&theme=dark&perline=30)](https://devicons.dev.br/) 
 
-[![Linguagens](https://api.devicons.dev.br/icon?icons=PostgreSQL%2CMySQL%2CSQLite%2CMongoDB&size=48&theme=dark&perline=30)](http://devicons.dev.br/) 
+[![Linguagens](https://api.devicons.dev.br/icon?icons=PostgreSQL%2CMySQL%2CSQLite%2CMongoDB&size=48&theme=dark&perline=30)](https://devicons.dev.br/) 
 
-[![Linguagens](https://api.devicons.dev.br/icon?icons=AWS%2CDocker%2CKubernetes%2CGit%2CGithubActions%2CLinux%2CRabbitMQ%2CRedis%2CGrafana%2CZabbix&size=48&theme=dark&perline=30)](http://devicons.dev.br/) 
+[![Linguagens](https://api.devicons.dev.br/icon?icons=AWS%2CDocker%2CKubernetes%2CGit%2CGithubActions%2CLinux%2CRabbitMQ%2CRedis%2CGrafana%2CZabbix&size=48&theme=dark&perline=30)](https://devicons.dev.br/) 
 
 ## Projects
 
-- [**Dev Icons 🚀**](http://devicons.dev.br/)
+- [**Dev Icons 🚀**](https://devicons.dev.br/)
 
   Dev Icons is a platform created especially for people who want to standardize their GitHub profile using the icons provided by the Dev Icons API.
 Following all market standards, Dev Icons uses the highest technologies such as: AWS, IaaC with Terraform, Pipelines with GitActions for automatic deployment, Python, Flask, JavaScript, Html and CSS
