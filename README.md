@@ -3,13 +3,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/patrickpiccini/?hl=pt-br) 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-berlatto-piccini-8414a91a7/) 
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-373737?style=flat&logo=microsoft-outlook&logoColor=white)](patrickbpiccini@hotmail.com) 
-<img width="350" align="right" src='https://github-readme-stats.vercel.app/api?username=PatrickPiccini&show_icons=true&theme=react'/>
+<!-- <img width="350" align="right" src='https://github-readme-stats.vercel.app/api?username=PatrickPiccini&show_icons=true&theme=react'/> -->
 
 **Obscure place with obscure codes** 🤣
 
 ### Certificates
 
-<img src = 'https://github.com/patrickpiccini/PatrickPiccini/blob/main/AWSCCP.png' width='60'/> <img src = 'https://github.com/patrickpiccini/PatrickPiccini/blob/main/CludQuest-CloudPratictioner.png' width='60'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Oracle_Cloud_Infrastructure_Foundations_Associate.png' width='60'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/GitLab%20Certified%20Associate.png?raw=true' width='60'/> <img src = 'https://github.com/patrickpiccini/PatrickPiccini/blob/main/PCEP.png' width='60'/>
+<img src = 'https://github.com/patrickpiccini/PatrickPiccini/blob/main/AWSDVA.png' width='60'/> <img src = 'https://github.com/patrickpiccini/PatrickPiccini/blob/main/AWSCCP.png' width='60'/> <img src = 'https://github.com/patrickpiccini/PatrickPiccini/blob/main/CludQuest-CloudPratictioner.png' width='60'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/Oracle_Cloud_Infrastructure_Foundations_Associate.png' width='60'/> <img src = 'https://github.com/PatrickPiccini/PatrickPiccini/blob/main/GitLab%20Certified%20Associate.png?raw=true' width='60'/> <img src = 'https://github.com/patrickpiccini/PatrickPiccini/blob/main/PCEP.png' width='60'/>
 
 <!-- <img width="350" align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickPiccini&langs_count=6&theme=react'/> -->
 
